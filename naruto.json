@@ -1,0 +1,126 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "title": "Ludo King Off",
+      "image": "https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "title": "Homescapes Off",
+      "image": "https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "title": "Minecraft Off",
+      "image": "https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Nature",
+      "image": "https://v7n2u8v7.rocketcdn.me/wp-content/uploads/2020/07/Waterfalls-Selja-L1.jpg"
+    },
+    {
+      "name_category": "Animal",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/710WW1XPhaL._AC_SL1280_.jpg"
+    },
+    {
+      "name_category": "Art",
+      "image": "https://images.all-free-download.com/images/graphicthumb/free_vector_background_556499.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "title": "Beach",
+      "name_category": "Nature",
+      "image": "palm.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+    {
+      "title": "Summer",
+      "name_category": "Nature",
+      "image": "flower.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+    {
+      "title": "Waterfall",
+      "name_category": "Nature",
+      "image": "waterfall.gif",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "GIF"
+    },
+    {
+      "title": "River",
+      "name_category": "Nature",
+      "image": "river2.gif",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "GIF"
+    },
+    {
+      "title": "Wahite Flower",
+      "name_category": "Nature",
+      "image": "whiteflower.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+    {
+      "title": "Waving",
+      "name_category": "Nature",
+      "image": "waving.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+    {
+      "title": "Frog",
+      "name_category": "Animal",
+      "image": "frog.mp4",
+      "link": "https://aliendro.id/uploads/demo/livewall/",
+      "type": "MP4"
+    },
+    {
+      "title": "Naruto Cloudup",
+      "name_category": "Animal",
+      "image": "7n8pP04Y5k.mp4",
+      "link": "https://cldup.com/",
+      "type": "MP4"
+    },
+    {
+      "title": "Naruto Niaga",
+      "name_category": "Art",
+      "image": "naruto.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+    {
+      "title": "Tokyo",
+      "name_category": "Animal",
+      "image": "ken.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    }
+  ]
+}
+    
