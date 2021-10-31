@@ -22,86 +22,58 @@
    
   "Categories": [
     {
-      "name_category": "Nature",
-      "image": "https://v7n2u8v7.rocketcdn.me/wp-content/uploads/2020/07/Waterfalls-Selja-L1.jpg"
+      "name_category": "Ninja Konoha 1",
+      "image": "http://nukuring.com/narutolive/naruto.jpg"
     },
     {
-      "name_category": "Animal",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/710WW1XPhaL._AC_SL1280_.jpg"
+      "name_category": "Ninja Konoha 2",
+      "image": "http://nukuring.com/narutolive/naruto2.jpg"
     },
     {
-      "name_category": "Art",
-      "image": "https://images.all-free-download.com/images/graphicthumb/free_vector_background_556499.jpg"
+      "name_category": "Ninja Konoha 3",
+      "image": "http://nukuring.com/narutolive/naruto3.jpg"
     }
   ],
   "Wallpaper": [
     {
-      "title": "Beach",
-      "name_category": "Nature",
-      "image": "palm.mp4",
-      "link": "https://aliendro.id/uploads/demo/livewall/",
-      "type": "MP4"
-    },
-    {
-      "title": "Summer",
-      "name_category": "Nature",
-      "image": "flower.mp4",
-      "link": "https://aliendro.id/uploads/demo/livewall/",
-      "type": "MP4"
-    },
-    {
-      "title": "Waterfall",
-      "name_category": "Nature",
-      "image": "waterfall.gif",
-      "link": "https://aliendro.id/uploads/demo/livewall/",
-      "type": "GIF"
-    },
-    {
-      "title": "River",
-      "name_category": "Nature",
-      "image": "river2.gif",
-      "link": "https://aliendro.id/uploads/demo/livewall/",
-      "type": "GIF"
-    },
-    {
-      "title": "Wahite Flower",
-      "name_category": "Nature",
-      "image": "whiteflower.mp4",
-      "link": "https://aliendro.id/uploads/demo/livewall/",
-      "type": "MP4"
-    },
-    {
-      "title": "Waving",
-      "name_category": "Nature",
-      "image": "waving.mp4",
-      "link": "https://aliendro.id/uploads/demo/livewall/",
-      "type": "MP4"
-    },
-    {
-      "title": "Frog",
-      "name_category": "Animal",
-      "image": "frog.mp4",
-      "link": "https://aliendro.id/uploads/demo/livewall/",
-      "type": "MP4"
-    },
-    {
-      "title": "Naruto Cloudup",
-      "name_category": "Animal",
-      "image": "7n8pP04Y5k.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
-    },
-    {
-      "title": "Naruto Niaga",
-      "name_category": "Art",
-      "image": "naruto.mp4",
+      "title": "Ninja 1",
+      "name_category": "Ninja Konoha 1",
+      "image": "1.mp4",
       "link": "http://nukuring.com/narutolive/",
       "type": "MP4"
     },
     {
-      "title": "Tokyo",
-      "name_category": "Animal",
-      "image": "ken.mp4",
+      "title": "Ninja 2",
+      "name_category": "Ninja Konoha 1",
+      "image": "2.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+    {
+      "title": "Ninja 3",
+      "name_category": "Ninja Konoha 2",
+      "image": "3.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+    {
+      "title": "Ninja 4",
+      "name_category": "Ninja Konoha 2",
+      "image": "4.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+    {
+      "title": "Ninja 5",
+      "name_category": "Ninja Konoha 3",
+      "image": "5.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+    {
+      "title": "Ninja 6",
+      "name_category": "Ninja Konoha 3",
+      "image": "6.mp4",
       "link": "http://nukuring.com/narutolive/",
       "type": "MP4"
     }
