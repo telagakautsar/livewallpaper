@@ -8,7 +8,7 @@
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -22,58 +22,309 @@
    
   "Categories": [
     {
-      "name_category": "Ninja Konoha 1",
-      "image": "http://nukuring.com/narutolive/logo.jpg"
-    },
-    {
-      "name_category": "Ninja Konoha 2",
-      "image": "http://nukuring.com/narutolive/logo.jpg"
-    },
-    {
-      "name_category": "Ninja Konoha 3",
+      "name_category": "Naruto",
       "image": "http://nukuring.com/narutolive/logo.jpg"
     }
   ],
   "Wallpaper": [
     {
-      "title": "Ninja 1",
-      "name_category": "Ninja Konoha 1",
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
       "image": "1.mp4",
       "link": "http://nukuring.com/narutolive/",
       "type": "MP4"
     },
     {
-      "title": "Ninja 2",
-      "name_category": "Ninja Konoha 1",
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
       "image": "2.mp4",
       "link": "http://nukuring.com/narutolive/",
       "type": "MP4"
     },
     {
-      "title": "Ninja 3",
-      "name_category": "Ninja Konoha 2",
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
       "image": "3.mp4",
       "link": "http://nukuring.com/narutolive/",
       "type": "MP4"
     },
     {
-      "title": "Ninja 4",
-      "name_category": "Ninja Konoha 2",
-      "image": "12.mp4",
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "4.mp4",
       "link": "http://nukuring.com/narutolive/",
       "type": "MP4"
     },
     {
-      "title": "Ninja 5",
-      "name_category": "Ninja Konoha 3",
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
       "image": "5.mp4",
       "link": "http://nukuring.com/narutolive/",
       "type": "MP4"
     },
     {
-      "title": "Ninja 6",
-      "name_category": "Ninja Konoha 3",
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
       "image": "6.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "7.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "8.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "9.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "10.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "11.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "12.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "13.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "14.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "15.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "16.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "17.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "18.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "19.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "20.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "21.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "22.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "23.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "24.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "25.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "26.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "27.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "28.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "29.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "30.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "31.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "32.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "33.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "34.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "35.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "36.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "37.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "38.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "39.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "40.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "41.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "42.mp4",
+      "link": "http://nukuring.com/narutolive/",
+      "type": "MP4"
+    },
+	{
+      "title": "Live Wallpaper",
+      "name_category": "Naruto",
+      "image": "43.mp4",
       "link": "http://nukuring.com/narutolive/",
       "type": "MP4"
     }
