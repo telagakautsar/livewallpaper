@@ -23,7 +23,7 @@
   "Categories": [
     {
       "name_category": "Fores",
-      "image": "http://nukuring.com/Fores/logo.jpg"
+      "image": "http://nukuring.com/fores/logo.jpg"
     }
   ],
   "Wallpaper": [
@@ -31,7 +31,7 @@
       "title": "Live Wallpaper",
       "name_category": "Fores",
       "image": "1.mp4",
-      "link": "http://nukuring.com/Fores/",
+      "link": "http://nukuring.com/fores/",
       "type": "MP4"
     },
     {
