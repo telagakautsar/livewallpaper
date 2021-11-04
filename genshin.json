@@ -1,0 +1,144 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   
+  "Categories": [
+    {
+      "name_category": "Genshin",
+      "image": "http://nukuring.com/genshin/logo.png"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "title": "LiveWall 1",
+      "name_category": "Genshin",
+      "image": "1.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+    {
+      "title": "LiveWall 2",
+      "name_category": "Genshin",
+      "image": "2.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+    {
+      "title": "LiveWall 3",
+      "name_category": "Genshin",
+      "image": "3.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+    {
+      "title": "LiveWall 4",
+      "name_category": "Genshin",
+      "image": "4.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+    {
+      "title": "LiveWall 5",
+      "name_category": "Genshin",
+      "image": "5.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+    {
+      "title": "LiveWall 6",
+      "name_category": "Genshin",
+      "image": "6.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+	{
+      "title": "LiveWall 7",
+      "name_category": "Genshin",
+      "image": "7.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+	{
+      "title": "LiveWall 8",
+      "name_category": "Genshin",
+      "image": "8.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+	{
+      "title": "LiveWall 9",
+      "name_category": "Genshin",
+      "image": "9.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+	{
+      "title": "LiveWall 10",
+      "name_category": "Genshin",
+      "image": "10.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+	{
+      "title": "LiveWall 11",
+      "name_category": "Genshin",
+      "image": "11.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+	{
+      "title": "LiveWall 12",
+      "name_category": "Genshin",
+      "image": "12.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+	{
+      "title": "LiveWall 13",
+      "name_category": "Genshin",
+      "image": "13.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+	{
+      "title": "LiveWall 14",
+      "name_category": "Genshin",
+      "image": "14.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+	{
+      "title": "LiveWall 15",
+      "name_category": "Genshin",
+      "image": "15.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    },
+	{
+      "title": "LiveWall 16",
+      "name_category": "Genshin",
+      "image": "16.mp4",
+      "link": "http://nukuring.com/genshin/",
+      "type": "MP4"
+    }
+  ]
+}
+    
