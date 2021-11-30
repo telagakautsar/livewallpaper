@@ -1,10 +1,10 @@
 {
  "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "f0c1024ffe498e29",
+      "main_ads_intertitial":"f58097f178c17d6f",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 3,
@@ -23,309 +23,309 @@
   "Categories": [
     {
       "name_category": "Ninja Konoha",
-      "image": "http://nukuring.com/narutolive/logo.jpg"
+      "image": "https://cldup.com/kaKqiNF_B5.jpg"
     }
   ],
   "Wallpaper": [
     {
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "1.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "cYoN2sG3RV.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
     {
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "2.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "51r7TnG3zu.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
     {
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "3.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "mkWW4aD9kM.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
     {
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "4.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "xcAuSl0MIK.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
     {
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "5.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "ED-Yc25G3J.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
     {
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "6.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "8mqSmTGXUc.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "7.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "TK6AbNBvuE.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "8.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "XU3h5w-93W.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "9.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "p1KhwI2-ZG.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "10.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "uoTTq5lCx5.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "11.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "59wEkxBBq6.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "12.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "LXyHYWR-JZ.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "13.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "zyPkRzaIDE.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "14.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "La0dHzUM_e.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "15.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "r87eu4kQkP.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "16.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "TdeeH-BX6O.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "17.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "00cOE2Q0-Y.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "18.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "N4cZ_jfQ5h.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "19.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "ZVMAKUl1JZ.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "20.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "K6_Lkfhqt5.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "21.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "5X0dGO4O9z.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "22.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "fhv3UJDq17.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "23.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "WFwWgXHq-0.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "24.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "-lTCTSoOIB.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "25.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "rEa4ab6_HA.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "26.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "waPGajwuMo.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "27.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "54Mf_RqHTB.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "28.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "U49zZ_0KwC.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "29.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "dYCvat8zJh.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "30.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "UC7MipN9xb.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "31.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "u4OMoSCxPu.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "32.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "VabniSa1_1.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "33.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "hyk5jXGrMf.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "34.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "g3Bsfsh38J.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "35.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "Z9pt3bTKjX.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "36.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "FC7MRBS9N0.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "37.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "8DYqBFsN5Z.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "38.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "i3XER6Ux_y.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "39.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "S7XMm9uIlR.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "40.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "LW75gH7851.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "41.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "qMHKDwlPdB.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "42.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "d43Uw3e-MX.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "Live Wallpaper",
       "name_category": "Ninja Konoha",
-      "image": "43.mp4",
-      "link": "http://nukuring.com/narutolive/",
+      "image": "GT0r6Gg3Rx.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     }
   ]
