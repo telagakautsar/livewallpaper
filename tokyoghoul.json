@@ -1,10 +1,10 @@
 {
  "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "f0c1024ffe498e29",
+      "main_ads_intertitial":"f58097f178c17d6f",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 3,
@@ -38,71 +38,71 @@
   "Categories": [
     {
       "name_category": "Tokyo Ghoul",
-      "image": "http://nukuring.com/tokyoghoul/logo.jpg"
+      "image": "https://cldup.com/JxDIaovM1u.jpg"
     }
   ],
   "Wallpaper": [
     {
       "title": "LiveWall 1",
       "name_category": "Tokyo Ghoul",
-      "image": "1.gif",
-      "link": "http://nukuring.com/tokyoghoul/",
+      "image": "AvlMc7vebC.gif",
+      "link": "https://cldup.com/",
       "type": "GIF"
     },
     {
       "title": "LiveWall 2",
       "name_category": "Tokyo Ghoul",
-      "image": "2.mp4",
-      "link": "http://nukuring.com/tokyoghoul/",
+      "image": "AhAhzLKqBy.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
     {
       "title": "LiveWall 3",
       "name_category": "Tokyo Ghoul",
-      "image": "3.mp4",
-      "link": "http://nukuring.com/tokyoghoul/",
+      "image": "iAr3qCo4Oa.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
     {
       "title": "LiveWall 4",
       "name_category": "Tokyo Ghoul",
-      "image": "4.mp4",
-      "link": "http://nukuring.com/tokyoghoul/",
+      "image": "YMgK8bftxi.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
     {
       "title": "LiveWall 5",
       "name_category": "Tokyo Ghoul",
-      "image": "5.mp4",
-      "link": "http://nukuring.com/tokyoghoul/",
+      "image": "S4ITGgnLcz.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
     {
       "title": "LiveWall 6",
       "name_category": "Tokyo Ghoul",
-      "image": "6.mp4",
-      "link": "http://nukuring.com/tokyoghoul/",
+      "image": "1xYcEqm4GM.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
 	{
       "title": "LiveWall 7",
       "name_category": "Tokyo Ghoul",
-      "image": "7.mp4",
-      "link": "http://nukuring.com/tokyoghoul/",
+      "image": "i5CVY-gPa2.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
-	{
+	  {
       "title": "LiveWall 8",
       "name_category": "Tokyo Ghoul",
-      "image": "8.mp4",
-      "link": "http://nukuring.com/tokyoghoul/",
+      "image": "uMONhz1zYB.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     },
-	{
+	  {
       "title": "LiveWall 9",
       "name_category": "Tokyo Ghoul",
-      "image": "9.mp4",
-      "link": "http://nukuring.com/tokyoghoul/",
+      "image": "nequXimTSi.mp4",
+      "link": "https://cldup.com/",
       "type": "MP4"
     }
   ]
