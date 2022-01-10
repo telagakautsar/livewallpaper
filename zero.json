@@ -22,12 +22,12 @@
   "Categories": [
     {
       "name_category": "Zero Two",
-      "wallpaper_url": "wallpaper/zerotwo/wallpaper/logo.jpg"
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/wallpaper/logo.jpg"
     },
        
     {
       "name_category": "Video",
-      "wallpaper_url": "wallpaper/zerotwo/wallpaper/logo2.jpg"
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/wallpaper/logo2.jpg"
     }
     
 	  
@@ -38,35 +38,35 @@
       "name_category": "Zero Two",
       "wallpaper_name": "Wall 1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "wallpaper/zerotwo/wallpaper/1.jpg"
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/wallpaper/1.jpg"
     },
 	{
       "id": 2,
       "name_category": "Zero Two",
       "wallpaper_name": "Wall 2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "wallpaper/zerotwo/wallpaper/2.jpg"
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/wallpaper/2.jpg"
     },
 	{
       "id": 3,
       "name_category": "Zero Two",
       "wallpaper_name": "Wall 3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "wallpaper/zerotwo/wallpaper/3.jpg"
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/wallpaper/3.jpg"
     },
 	{
       "id": 4,
       "name_category": "Zero Two",
       "wallpaper_name": "Wall 4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "wallpaper/zerotwo/wallpaper/4.jpg"
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/wallpaper/4.jpg"
     },
 	{
       "id": 5,
       "name_category": "Zero Two",
       "wallpaper_name": "Wall 5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "wallpaper/zerotwo/wallpaper/5.jpg"
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/wallpaper/5.jpg"
     },
 	{
       "id": 111,
