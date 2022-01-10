@@ -1,138 +1,163 @@
 {
- "Ads": [
+  "Ads": [
     {
-      "select_main_ads": "APPLOVIN-D",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "f0c1024ffe498e29",
-      "main_ads_intertitial":"f58097f178c17d6f",
-      "backup_ads_banner":"f0c1024ffe498e29",
-      "backup_ads_intertitial":"f58097f178c17d6f",
-      "interval_intertitial": 3,
-      "initialize_sdk":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "Insurance",
-      "high_paying_keyword_2": "Loans",
-      "high_paying_keyword_3": "Mortgage",
-      "high_paying_keyword_4": "Attorney",
-      "high_paying_keyword_5": "Credit",
-	  "high_paying_keyword_6": "Lawyer",
-	  "high_paying_keyword_7": "Donate",
-	  "high_paying_keyword_8": "Degree",
-	  "high_paying_keyword_9": "Hosting",
-	  "high_paying_keyword_10": "Claim",
-	  "high_paying_keyword_11": "Conference",
-	  "high_paying_keyword_12": "Call Trading",
-	  "high_paying_keyword_13": "Software",
-	  "high_paying_keyword_14": "Recovery",
-	  "high_paying_keyword_15": "Transfer",
-	  "high_paying_keyword_16": "Electricity",
-	  "high_paying_keyword_17": "Classes Rehab",
-	  "high_paying_keyword_18": "Treatment",
-	  "high_paying_keyword_19": "Cord",
-	  "high_paying_keyword_20": "Blood",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
     }
   ],
-   
   "Categories": [
     {
       "name_category": "Zero Two",
-      "image": "https://cldup.com/7xwQBrgwwf.png"
+      "wallpaper_url": "wallpaper/zerotwo/wallpaper/logo.jpg"
+    },
+       
+    {
+      "name_category": "Video",
+      "wallpaper_url": "wallpaper/zerotwo/wallpaper/logo2.jpg"
     }
+    
+	  
   ],
   "Wallpaper": [
     {
-      "title": "LiveWall 1",
+      "id": 1,
       "name_category": "Zero Two",
-      "image": "-WH1rTBNoX.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
-    },
-    {
-      "title": "LiveWall 2",
-      "name_category": "Zero Two",
-      "image": "Lny6bpnmU4.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
-    },
-    {
-      "title": "LiveWall 3",
-      "name_category": "Zero Two",
-      "image": "gIKvNLk4li.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
-    },
-    {
-      "title": "LiveWall 4",
-      "name_category": "Zero Two",
-      "image": "js1sCXCOnN.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
-    },
-    {
-      "title": "LiveWall 5",
-      "name_category": "Zero Two",
-      "image": "g94MMEfydf.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
-    },
-    {
-      "title": "LiveWall 6",
-      "name_category": "Zero Two",
-      "image": "V2YB3Z7ywX.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
+      "wallpaper_name": "Wall 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "wallpaper/zerotwo/wallpaper/1.jpg"
     },
 	{
-      "title": "LiveWall 7",
+      "id": 2,
       "name_category": "Zero Two",
-      "image": "YqbA4IfaMr.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
+      "wallpaper_name": "Wall 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "wallpaper/zerotwo/wallpaper/2.jpg"
     },
 	{
-      "title": "LiveWall 8",
+      "id": 3,
       "name_category": "Zero Two",
-      "image": "_AaSKUKLVj.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
+      "wallpaper_name": "Wall 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "wallpaper/zerotwo/wallpaper/3.jpg"
     },
 	{
-      "title": "LiveWall 9",
+      "id": 4,
       "name_category": "Zero Two",
-      "image": "dFm3mDm3KY.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
+      "wallpaper_name": "Wall 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "wallpaper/zerotwo/wallpaper/4.jpg"
     },
 	{
-      "title": "LiveWall 10",
+      "id": 5,
       "name_category": "Zero Two",
-      "image": "oB4iQmuh7Z.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
+      "wallpaper_name": "Wall 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "wallpaper/zerotwo/wallpaper/5.jpg"
     },
 	{
-      "title": "LiveWall 11",
-      "name_category": "Zero Two",
-      "image": "spxg4YrKdJ.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
+      "id": 111,
+      "name_category": "Video",
+      "wallpaper_name": "video 1",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/1.mp4"
     },
 	{
-      "title": "LiveWall 12",
-      "name_category": "Zero Two",
-      "image": "VpT5Ftlk-x.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
+      "id": 112,
+        "name_category": "Video",
+      "wallpaper_name": "video 2",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/2.mp4"
     },
-	  {
-      "title": "LiveWall 13",
-      "name_category": "Zero Two",
-      "image": "05xs618w8g.mp4",
-      "link": "https://cldup.com/",
-      "type": "MP4"
+	{
+      "id": 113,
+         "name_category": "Video",
+      "wallpaper_name": "video 3",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/3.mp4"
+    },
+	{
+      "id": 114,
+         "name_category": "Video",
+      "wallpaper_name": "video 4",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/4.mp4"
+    },
+	{
+      "id": 115,
+         "name_category": "Video",
+      "wallpaper_name": "video 5",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/5.mp4"
+    },
+	{
+      "id": 116,
+        "name_category": "Video",
+      "wallpaper_name": "video 6",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/6.mp4"
+    },
+	{
+      "id": 117,
+         "name_category": "Video",
+      "wallpaper_name": "video 7",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/7.mp4"
+    },
+	{
+      "id": 118,
+         "name_category": "Video",
+      "wallpaper_name": "video 8",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/8.mp4"
+    },
+	{
+      "id": 119,
+         "name_category": "Video",
+      "wallpaper_name": "video 9",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/9.mp4"
+    },
+	{
+      "id": 120,
+         "name_category": "Video",
+      "wallpaper_name": "video 10",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/10.mp4"
+    },
+	{
+      "id": 121 ,
+         "name_category": "Video",
+      "wallpaper_name": "video 11",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/11.mp4"
+    },
+	{
+      "id": 122 ,
+         "name_category": "Video",
+      "wallpaper_name": "video 12",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/12.mp4"
+    },
+	{
+      "id": 123 ,
+         "name_category": "Video",
+      "wallpaper_name": "video 13",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "http://kerikil.xyz/zerotwo/video/13.mp4"
     }
   ]
 }
-    
